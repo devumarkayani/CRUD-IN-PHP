@@ -1,0 +1,18 @@
+body{
+    font-family:"Tangerine",serif;
+}
+.sub_msg{
+    text-align: center;
+    padding: 10px 0px 20px 0px;
+
+}
+.signup{
+    border: 1px solid e7e7e7;
+    text-align: center;
+    width: 60%;
+    height: auto;
+    width: auto;
+}
+#errorName,#errorEmail,#errorPassword{
+color: red;
+}
